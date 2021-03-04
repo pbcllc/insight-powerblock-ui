@@ -1,8 +1,8 @@
 {
-  "name": "insight-lite-ui",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the litecoin network and build your own services with it.",
+  "name": "insight-powerblock-ui",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the powerblockcoin network and build your own services with it.",
   "version": "0.4.6",
-  "repository": "git://github.com/litecoin-project/insight-lite-ui.git",
+  "repository": "git://github.com/DeckerSU/insight-powerblock-ui.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -23,22 +23,26 @@
     {
       "name": "Juan Ignacio Sosa Lopez",
       "email": "bechilandia@gmail.com"
+    },
+    {
+      "name": "Decker",
+      "email": "deckersu@protonmail.com"
     }
   ],
   "bugs": {
     "url": "https://github.com/bitpay/insight-ui/issues"
   },
-  "homepage": "https://github.com/litecoin-project/insight-lite-ui",
+  "homepage": "https://github.com/DeckerSU/insight-powerblock-ui",
   "license": "MIT",
   "keywords": [
     "insight",
     "blockchain",
     "blockexplorer",
-    "litecoin",
-    "litecore",
+    "powerblockcoin",
+    "powerblockcore",
     "front-end"
   ],
-  "bitcoreNode": "litecore-node",
+  "bitcoreNode": "powerblockcore-node",
   "dependencies": {},
   "devDependencies": {
     "bower": "~1.2.8",
