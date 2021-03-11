@@ -2,7 +2,7 @@
   "name": "insight-powerblock-ui",
   "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the powerblockcoin network and build your own services with it.",
   "version": "0.4.6",
-  "repository": "git://github.com/DeckerSU/insight-powerblock-ui.git",
+  "repository": "git://github.com/pbcllc/insight-powerblock-ui.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -32,7 +32,7 @@
   "bugs": {
     "url": "https://github.com/bitpay/insight-ui/issues"
   },
-  "homepage": "https://github.com/DeckerSU/insight-powerblock-ui",
+  "homepage": "https://github.com/pbcllc/insight-powerblock-ui",
   "license": "MIT",
   "keywords": [
     "insight",
